@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xn9Vvoi3eNo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lance\\source\\repos\\Practice\\Practice\\Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lance\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\lance\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
